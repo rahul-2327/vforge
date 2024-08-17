@@ -1,0 +1,11 @@
+{
+  "name": "vforge",
+  "version": "1.0.0",
+  "description": "vforge is a scalable backend solution got video streaming platform",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "winter",
+  "license": "ISC"
+}
